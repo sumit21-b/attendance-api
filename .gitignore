@@ -1,0 +1,7 @@
+.env
+.venv/
+__pycache__/
+files/
+files.zip
+ATTENDENCD.PY
+seed.py
